@@ -4,6 +4,7 @@ using System.Text;
 
 namespace SingletonPattern.singleton
 {
+    // If we want a class to have only one object, then we use the singleton pattern
     class TestLogger
     {
         static void Main()

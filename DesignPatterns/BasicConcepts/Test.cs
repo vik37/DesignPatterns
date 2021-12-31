@@ -34,6 +34,8 @@ namespace BasicConcepts
             IA obj1 = new B();
             Console.WriteLine("A or B? obj");
             obj1.MethodA();
+            ((B)obj1).MethodB();
+            (obj1 as B).MethodB();
             //Can not du this
             //B obj = new A();
             Console.ReadLine();
