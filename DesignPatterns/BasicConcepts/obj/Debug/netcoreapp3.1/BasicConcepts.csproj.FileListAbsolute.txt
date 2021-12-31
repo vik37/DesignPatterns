@@ -1,0 +1,14 @@
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.exe
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.deps.json
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.runtimeconfig.json
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.dll
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\bin\Debug\netcoreapp3.1\BasicConcepts.pdb
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.csproj.AssemblyReference.cache
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.AssemblyInfo.cs
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.dll
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.pdb
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\BasicConcepts\obj\Debug\netcoreapp3.1\BasicConcepts.genruntimeconfig.cache
