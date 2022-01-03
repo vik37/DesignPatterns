@@ -1,0 +1,14 @@
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\bin\Debug\netcoreapp3.1\SingletonPattern_Example2.exe
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\bin\Debug\netcoreapp3.1\SingletonPattern_Example2.deps.json
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\bin\Debug\netcoreapp3.1\SingletonPattern_Example2.runtimeconfig.json
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\bin\Debug\netcoreapp3.1\SingletonPattern_Example2.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\bin\Debug\netcoreapp3.1\SingletonPattern_Example2.dll
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\bin\Debug\netcoreapp3.1\SingletonPattern_Example2.pdb
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\obj\Debug\netcoreapp3.1\SingletonPattern_Example2.csproj.AssemblyReference.cache
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\obj\Debug\netcoreapp3.1\SingletonPattern_Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\obj\Debug\netcoreapp3.1\SingletonPattern_Example2.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\obj\Debug\netcoreapp3.1\SingletonPattern_Example2.AssemblyInfo.cs
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\obj\Debug\netcoreapp3.1\SingletonPattern_Example2.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\obj\Debug\netcoreapp3.1\SingletonPattern_Example2.dll
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\obj\Debug\netcoreapp3.1\SingletonPattern_Example2.pdb
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\SingletonPattern_Example2\obj\Debug\netcoreapp3.1\SingletonPattern_Example2.genruntimeconfig.cache
