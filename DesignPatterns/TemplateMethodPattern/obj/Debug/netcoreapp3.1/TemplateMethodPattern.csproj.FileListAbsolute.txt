@@ -1,0 +1,14 @@
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.exe
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.deps.json
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.runtimeconfig.json
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.dll
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\bin\Debug\netcoreapp3.1\TemplateMethodPattern.pdb
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.AssemblyInfo.cs
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.dll
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.pdb
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.genruntimeconfig.cache
+C:\Users\vikto\source\repos\design_patterns\DesignPatterns\TemplateMethodPattern\obj\Debug\netcoreapp3.1\TemplateMethodPattern.csproj.AssemblyReference.cache
