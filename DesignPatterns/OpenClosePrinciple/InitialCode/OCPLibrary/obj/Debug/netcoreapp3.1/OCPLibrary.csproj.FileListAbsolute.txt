@@ -1,9 +1,0 @@
-C:\Users\vikto\source\repos\design_patterns\DesignPatterns\OCPLibrary\bin\Debug\netcoreapp3.1\OCPLibrary.deps.json
-C:\Users\vikto\source\repos\design_patterns\DesignPatterns\OCPLibrary\bin\Debug\netcoreapp3.1\OCPLibrary.dll
-C:\Users\vikto\source\repos\design_patterns\DesignPatterns\OCPLibrary\bin\Debug\netcoreapp3.1\OCPLibrary.pdb
-C:\Users\vikto\source\repos\design_patterns\DesignPatterns\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vikto\source\repos\design_patterns\DesignPatterns\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.AssemblyInfoInputs.cache
-C:\Users\vikto\source\repos\design_patterns\DesignPatterns\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.AssemblyInfo.cs
-C:\Users\vikto\source\repos\design_patterns\DesignPatterns\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.csproj.CoreCompileInputs.cache
-C:\Users\vikto\source\repos\design_patterns\DesignPatterns\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.dll
-C:\Users\vikto\source\repos\design_patterns\DesignPatterns\OCPLibrary\obj\Debug\netcoreapp3.1\OCPLibrary.pdb
